@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Two acts of Parliament, the one concerning such benefices and stipends as have been possessed without presentations from the lawfull patrons: the other concerning masters of universities, ministers, &amp;c.</title>
+            <title>Laws, stc.</title>
+            <author>Scotland.</author>
+         </titleStmt>
+         <extent>Approx. 9KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A92620</idno><idno type="EEBO-CITATION">45578440</idno>
+  <idno type="VID">172356</idno>
+  <idno type="EEBO-PROQUEST">2240876831</idno>
+  
+            <idno type="STC">Wing S1353</idno>
+            <idno type="STC">ESTC R184018</idno>
+            <idno type="OCLC">45578440</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A92620)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 172356)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2627:10)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Two acts of Parliament, the one concerning such benefices and stipends as have been possessed without presentations from the lawfull patrons: the other concerning masters of universities, ministers, &amp;c.</title>
+                  <title>Laws, stc.</title>
+                  <author>Scotland.</author>
+                  <author>Scotland. Parliament.</author>
+                  <author>Scotland. Sovereign (1649-1685 : Charles II)</author>
+               </titleStmt>
+               <extent>7 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Evan Tyler, printer to the Kings most Excellent Majesty,</publisher>
+                  <pubPlace>Edinburgh, :</pubPlace>
+                  <date>1662.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Sutro Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Benefices, Ecclesiastical --  Scotland.</term>
+               <term type="topical_term">Universities and colleges --  Scotland --  Early works to 1800.</term>
+               <term type="geographic_name">Scotland --  Politics and government --  1660-1688.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:172356:1"/>
+            <p>TWO ACTS OF PARLIAMENT, The one concerning such BENEFICES and STIPENDS as have been possessed without Presentations from the lawfull PATRONS: The other concerning MASTERS of UNIVERSITIES, MINISTERS, <hi>&amp;c.</hi>
+            </p>
+            <figure>
+               <head>C R</head>
+               <q xml:lang="frm">HONI SOIT QVI MAL Y PENSE</q>
+               <figDesc>royal blazon surmounted by a crown</figDesc>
+            </figure>
+            <p>
+               <hi>Edinburgh,</hi> Printed by <hi>Evan Tyler,</hi> Printer to the Kings most Excellent Majesty, 1662.</p>
+         </div>
+      </front>
+      <body>
+         <div type="Act_of_Parliament">
+            <pb facs="tcp:172356:2"/>
+            <pb n="3" facs="tcp:172356:2"/>
+            <head>ACT concerning such Benefices and Sti<g ref="char:EOLhyphen"/>pends as have been possessed without pre<g ref="char:EOLhyphen"/>sentations from the lawfull PATRONS.</head>
+            <opener>
+               <dateline>At <hi>Edinburgh,</hi>
+                  <date>the eleventh day of June, 1662.</date>
+               </dateline>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>He Kings most Excellent <hi>Ma<g ref="char:EOLhyphen"/>jesty</hi> being desirous, that all His good Subjects may be sensible of the happy effects and fruits of the Royal Go<g ref="char:EOLhyphen"/>vernment, by a free, peaceable and safe enjoyment of their due interests and properties under His protection; and that in His restitu<g ref="char:EOLhyphen"/>tion they may find themselves restored to these Rights which by Law were secured unto them, and by the violence and unjustice of these late troubles and confusions have been wrested from them: And considering that notwithstanding the right of Patronages be duly setled and esta<g ref="char:EOLhyphen"/>blished by the ancient and fundamental Laws and Constitutions of this Kingdom; Yet, divers Ministers in this Church have, and do possesse Benefices and Stipends in their respective Cures without any Right or Presentation to the same from the Patrons. And it being therefore most just, that the lawfull and undoubted Pa<g ref="char:EOLhyphen"/>trons of Kirks be restored to the possession of the Rights of their respective Advocations, Dona<g ref="char:EOLhyphen"/>tions and Patronages; Therefore His <hi>Maiesty,</hi> with advice and consent of His Estates of Par<g ref="char:EOLhyphen"/>liament, Doth Statute and Ordain, That all
+<pb n="4" facs="tcp:172356:3"/> these Ministers who entered to the Cure of any Paroch in Burgh or Land within this King<g ref="char:EOLhyphen"/>dom, in or since the year one thousand six hundred and fourty nine (at and before which time the Patrons were most injuriously dispossessed of their Patronages) have no right unto, nor shall receive, uplift nor possesse the rents of any Bene<g ref="char:EOLhyphen"/>fice, modified Stipend, Manse or Gleib for this present cropt, one thousand six hundred and sixty two, nor any year following, but their Places, Benefices and Kirks are, <hi>ipso jure,</hi> vacand. Yet His <hi>Maiesty,</hi> to evidence His willingness to pass by and cover the miscariages of His people, Doth, with advice aforesaid, Declare, That this Act shall not be prejudicial to any of these Ministers in what they have possessed or is due to them since their admission: And that every such Minister who shall obtain a Presentation from the lawfull Patron, and have Collation from the Bishop of the Diocesse where he liveth, betwixt and the twentieth of <hi>September</hi> next to come, shall from thenceforth have right to, and enjoy his Church, Benefice, Manse and Gleib, as fully and freely as if he had been lawfully presented and admitted thereto at his first entry, or as any other Mini<g ref="char:EOLhyphen"/>ster within the Kingdom doth or may do. And for that end it is hereby Ordained, That the re<g ref="char:EOLhyphen"/>spective Patrons shall give Presentations to all the present Incumbents who in due time shall make application to them for the same. And in case any of these Churches shall not be thus duly provided before the said twentieth of <hi>September,</hi> then the Patron shall have freedom to present an other betwixt and the twentieth day of <hi>March,</hi> one thousand six hundred and sixty three; which if he shall refuse or neglect, the Presentation shall
+<pb n="5" facs="tcp:172356:3"/> then fall to the Bishop, <hi>jure devoluto,</hi> according to former Laws. And suchlike His <hi>Maiesty,</hi> with advice foresaid, doth Statute and Ordain the Archbishops and Bishops to have the power of new Admission and Collation to all such Churches and Benefices as belong to their re<g ref="char:EOLhyphen"/>spective Sees, and which have vaiked since the year one thousand six hundred and thirty seven: And to be carefull to plant and provide these their own Kirks conform to this Act.</p>
+         </div>
+         <div type="Act_of_Parliament">
+            <head>ACT concerning Masters of Universities, Ministers, <hi>&amp;c.</hi>
+            </head>
+            <opener>
+               <dateline>At <hi>Edinburgh,</hi>
+                  <date>the twenty fourth of <hi>June,</hi> 1662.</date>
+               </dateline>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>He Kings most Excellent <hi>Majesty,</hi> ac<g ref="char:EOLhyphen"/>cording to the laudable example of His Royal Progenitors in former Parliaments, Doth with advice and consent of His Estates conveened in this present Parliament, Ratifle and Approve all and whatsoever Acts and Statutes heretofore made, concerning the liberty and freedom of the true Church of God, and the Religion now pro<g ref="char:EOLhyphen"/>fessed and established within this Kingdom; And considering how necessary it is for the advance<g ref="char:EOLhyphen"/>ment of Religion and Learning, for the good of the Church, and peace of the Kingdom, that the Vniversities and Colledges be provided and ser<g ref="char:EOLhyphen"/>ved with Professors, Principal, Regents and Masters, well affected to His <hi>Majesty</hi> and the established Government in Church and State; His <hi>Majesty,</hi> with advice foresaid, doth Statute, Ordain and Enact, That from this time forth no Masters, Principal, Regents, nor other Pro<g ref="char:EOLhyphen"/>fessors
+<pb n="6" facs="tcp:172356:4"/> in Vniversities or Colledges within this Kingdom, be admitted, nor allowed to continue in the exercise of any Function within the same, but such as are of a pious, loyal and peaceable conversation, submitting to, and owning the Government of the Church by Archbishops and Bishops, now setled by Law, and who hav<g ref="char:EOLhyphen"/>ing given satisfaction therein to the Bishops of the respective Diocesses and Patrons, and having, in their presence, taken the Oath of Al<g ref="char:EOLhyphen"/>leagiance, shall procure their attestation of the same; that is to say, the Professors and other Masters of the Vnivrrsities of St. <hi>Andrews, Glasgow</hi> and <hi>Aberdeen,</hi> to have the approbation and attestation of the Archbishops and Bishops, who are the respective Chancellors of the saids Vniversities; and the Professors and other Masters of the New-toun Colledge in <hi>Aberdeen</hi> and Colledge of <hi>Edinburgh,</hi> to have the approba<g ref="char:EOLhyphen"/>tion of the respective Patrons, the Earl of <hi>Mar<g ref="char:EOLhyphen"/>shal</hi> and Magistrates of <hi>Edinburgh</hi> and <hi>Aberdeen,</hi> and an attestation and certificat under the hand of the Bishops of <hi>Edinburgh</hi> and <hi>Aberdeen, re<g ref="char:EOLhyphen"/>spectivè,</hi> that they have taken the Oath of Alleagi<g ref="char:EOLhyphen"/>ance, and that they are persons who submit to, and own the Church-government as now setled by Law. Likeas His <hi>Majesty</hi> finding it necessary for the peace and quiet of the Church, that the Ministers be such as will acknowledge and com<g ref="char:EOLhyphen"/>ply with the present Government of the same, Doth therefore, with advice foresaid, Sta<g ref="char:EOLhyphen"/>tute and Enact, That whatsoever Minister shall, without a lawfull excuse to be admitted by his Ordinary, absent himself from the visitations of the Diocesse, which are to be per<g ref="char:EOLhyphen"/>formed by the Bishop or some of the Ministers
+<pb n="7" facs="tcp:172356:4"/> to be appointed by him, or from the Diocesian Assembly; or who shall not, according to his du<g ref="char:EOLhyphen"/>ty, concur therein, or who shall not give their as<g ref="char:EOLhyphen"/>sistance in all the Acts of Church-discipline as they shall be required thereunto by the Archbi<g ref="char:EOLhyphen"/>shop or Bishop of the Diocesse, every such Minister so offending shall, for the first fault, be suspended from his Office and Benefice till the next Diocesian Meeting, and if he amend not, shall be deprived, and the Church and Benefice to be provided as the Law alloweth in other cases of Vacancies. And His <hi>Majesty</hi> considering, that under the pretext of Religious exercises, divers unlawfull Meetings and Conventicles (the nur<g ref="char:EOLhyphen"/>series of sedition) have been kept in private fa<g ref="char:EOLhyphen"/>milies, Hath thought fit, with advice foresaid, hereby to Declare, That as they do and will give all due encouragment to the worship of God in families amongst the persons of the family, and others who shall be occasionally there for the time, so they do hereby Discharge all private Meet<g ref="char:EOLhyphen"/>ings or Conventicles in houses, which under the pretense of, or for, Religious exercises may tend to the prejudice of the publick worship of God in the Churches, or to the alienating of the people from their lawfull Pastours, and that duty and obedience they owe to Church and State. And it is hereby Ordained, That none be hereafter permitted to preach in publick or in families with<g ref="char:EOLhyphen"/>in any Diocesse, or teach any publick School, or to be Pedagogues to the children of persons of quality, without the licence of the Ordinary of the Diocesse. And Ordains these presents to be printed, and published at the Mercat Crosses of all the Royal Burghs within this Kingdom.</p>
+         </div>
+      </body>
+   </text>
+</TEI>
